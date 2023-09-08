@@ -1,2 +1,6 @@
 # Translation-of-Braille-Stories-authored-by-Visually-Impaired-Individuals-into-Speech
 Translation of Braille Stories authored by Visually Impaired Individuals into Speech: Enhancing Accessibility in Malayalam and Tamil Languages
+
+
+
+This paper presents an innovative approach to enhance accessibility for visually impaired children by translating Braille stories authored by young individuals into speech in Malayalam and Tamil languages. The study proposes a robust translation framework that utilizes advanced natural language processing techniques and  speech processing accurately convert Braille text into spoken words, while respecting the linguistic nuances specific to the Malayalam and Tamil languages. The system aims to bridge the gap between Braille and spoken language, providing a means for young visually impaired authors to have their stories heard and appreciated by a wider audience. Through extensive evaluation and user feedback, the effectiveness and practicality of the proposed approach in enhancing accessibility and fostering inclusivity for visually impaired children in literature and storytelling domains are demonstrated. This research contributes to the broader field of assistive technology, showcasing the potential for empowering young visually impaired authors to share their literary works in a meaningful and accessible manner.
